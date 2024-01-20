@@ -1,11 +1,11 @@
-**Super Store Sales Dashboard**
+## Super Store Sales Dashboard
 
 I am excited to share my recent Tableau Dashboard showcasing valuable insights into "Super Store Sales," implemented just last week.
 
 The dataset, generously provided by Information Technology Institute (ITI), underwent a comprehensive analysis.
 
 
-📌 **Steps were covered:**
+## Steps were covered:
 
 1. **Data Exploration:**
    - Thorough examination for Missing and Duplicate Values.
@@ -20,8 +20,7 @@ The dataset, generously provided by Information Technology Institute (ITI), unde
    - Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
 
-
-📌 **Insights from the Dashboard:**
+## Insights from the Dashboard: 
 
 1. The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
 
@@ -44,8 +43,7 @@ The dataset, generously provided by Information Technology Institute (ITI), unde
 10. The USA experiences maximum sales with a 3.4% promotion increase from 32%.
 
 
-
-📌 **Tools Used:**
+## Tools Used:
 
 - Figma for the background layout.
 
@@ -53,7 +51,7 @@ The dataset, generously provided by Information Technology Institute (ITI), unde
 
 
 
-📌 The Light-Dark mode switch is conveniently available on Tableau Public.
+## The Light-Dark mode switch is conveniently available on Tableau Public.
 
 🔗 [Tableau Public Link]: https://public.tableau.com/app/profile/karim.diab/viz/lab2_17053785343240/Overview?publish=yes
 
