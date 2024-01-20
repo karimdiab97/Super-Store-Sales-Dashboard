@@ -43,14 +43,4 @@ Image:
 ![Currency ](https://github.com/karimdiab97/Super-Store-Sales-Dashboard/assets/101432419/ddd64458-d2d3-4559-8364-fe8c749b9163)
 
 
-
-
-
-
-
-
-## The Light-Dark mode switch is conveniently available on Tableau Public.
-
-🔗 [Tableau Public Link]: https://public.tableau.com/app/profile/karim.diab/viz/lab2_17053785343240/Overview?publish=yes
-
 Thank you for your attention, and feel free to explore the dashboard for a deeper understanding of the Super Store Sales insights.
